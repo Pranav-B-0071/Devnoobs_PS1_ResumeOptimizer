@@ -1,0 +1,10 @@
+streamlit
+fitz  # PyMuPDF for PDF processing
+spacy
+scikit-learn
+selenium
+beautifulsoup4
+google-api-python-client
+kaggle
+tensorflow  # If using BERT-based similarity
+torch  # If using SBERT
